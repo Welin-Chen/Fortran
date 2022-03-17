@@ -1,0 +1,6 @@
+     key point          t(s)         H(km)     Range(km)        V(m/s)            Ma
+ leave luncher          0.00          0.00          0.00          0.00          0.00
+        Max. V         18.27          2.01         12.16        849.57          2.56
+motor burn out         25.00          2.17         17.26        655.28          1.97
+        Max. H         23.84          2.17         16.48        688.87          2.08
+ fall into sea         48.31          0.00         26.98        317.01          0.93
